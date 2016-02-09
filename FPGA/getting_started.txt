@@ -1,0 +1,14 @@
+Software
+To start out we'll need to get some software installed to talk to the DE0-Nano. Unfortunately the cd's that come with the board don't work with linux out of the box. Fortunately we can download them online.
+
+I began looking for the software following this gude: http://www.local-guru.net/blog/2011/9/25/Using-the-terasic-DE0-Nano-on-ubuntu. It looks like the download for version 15 will be about 5.5 GB downloaded. That's before an install... This is going to take a while to download on slower connections. On top of that their download manager doesn't seem to work with chrome on my Ubuntu Gnome 16.04 install.
+
+1. Download the software for linux at https://www.altera.com/download/dnl-index.jsp. Unfortunately you will need to create an account.
+
+2. Wait a while if you have a slow connection.
+
+3. Move the Quartus-web-15.0.0.145-linux.tar file to a new directory you'll be working out of.
+
+4. Unzip the tar: tar-xvf Quartus-web-15.0.0.145-linux.tar
+
+5. 
